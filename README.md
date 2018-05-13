@@ -57,6 +57,10 @@ The IsolationForest ‘isolates’ observations by randomly selecting a feature 
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/IF.png?raw=true)
 
+### Visualize the anomalies
+
+![logo](https://github.com/adetection/adetection.github.io/blob/master/map.png?raw=true)
+
 ## Social media
 ### [![twitter][1.1]][1] [![github][6.1]][6]
 [1]: http://www.twitter.com/alexfrancow
