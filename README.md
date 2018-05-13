@@ -5,7 +5,7 @@ A-Detection is a software developed to automate the analysis of network anomalie
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/plot.png?raw=true)
 
 
-## Table of content
+## Table of contents
 
 * [How it works](#how-it-works)
     + [Data import](#data-import)
