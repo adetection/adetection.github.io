@@ -4,34 +4,39 @@ A-Detection is a software developed to automate the analysis of anomalies in lar
 
 ![logo](http://labrigger.com/blog/wp-content/uploads/2013/11/plotly.png)
 
-### Markdown
+### How it works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thanks to a Python library called Pandas, A-Detection imports network traffic, and based on a series of algorithms like; Variable Scaling and Isolation Forest, is able to Normalize and detect anomalies in the dataframe.
+
+#### Data import
 
 ```markdown
-Syntax highlighted code block
+import pandas as pd
+import numpy as np
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+pd.read_csv('/home/snort/Desktop/netflow.json')
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### Data group
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adetection/adetection.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+ipdst           proto   time                   count
+10.3.20.102     HTTP    2017-03-20 17:08:56     1
+10.3.20.102     HTTP    2017-03-20 17:08:57     1
+10.3.20.102     HTTP    2017-03-20 17:08:58     1
+10.3.20.102     HTTP    2017-03-20 17:08:58     1
+10.3.20.102     TCP     2017-03-20 17:08:59     3
+```
 
-### Support or Contact
+```markdown
+df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index()
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```markdown
+ ipdst       proto  time                 count     
+    -           -    2017-03-20 17:08:50    0
+10.3.20.102    HTTP  2017-03-20 17:08:55    4
+10.3.20.102    TCP   2017-03-20 17:08:55    4
+    -           -    2017-03-20 17:09:00    0
+```
