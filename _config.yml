@@ -2,7 +2,7 @@
 
 theme: jekyll-theme-minimal
 
-title: A-Detection
+title: A-Detector
 description: An anomaly-based intrusion detection system. 
 logo: https://pages-themes.github.io/minimal/assets/img/logo.png
 show_downloads: true
