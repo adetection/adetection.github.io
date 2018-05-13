@@ -1,10 +1,3 @@
-<script src="https://unpkg.com/vanilla-back-to-top@7.1.14/dist/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop({
-  diameter: 56,
-  backgroundColor: 'rgb(255, 82, 82)',
-  textColor: '#fff'
-})</script>
-
 ## Welcome to A-Detection
 
 A-Detection is a software developed to automate the analysis of network anomalies in large dataframes. Thanks to a series of algorithms, A-Detection can detect anomalous data and display it in dynamic graphics.
