@@ -2,7 +2,7 @@
 
 A-Detection is a software developed to automate the analysis of anomalies in large dataframes. Thanks to a series of algorithms A-Detection is able, on the basis of red traffic, to learn and detect anomalous traffic.
 
-![logo](https://geo-python.github.io/2017/_images/pandas_logo.png)
+![logo](http://labrigger.com/blog/wp-content/uploads/2013/11/plotly.png)
 
 ### Markdown
 
