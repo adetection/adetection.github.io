@@ -43,4 +43,4 @@ df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index
 
 #### Data normalization
 
-![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png)
+![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png?raw=true)
