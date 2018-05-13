@@ -45,6 +45,11 @@ df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png?raw=true)
 
+#### Isolation Forest
+
+The IsolationForest ‘isolates’ observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of the selected feature.
+
+![logo](https://github.com/adetection/adetection.github.io/blob/master/IF.png?raw=true)
 
 ## Social media
 #### [![twitter][1.1]][1] [![github][6.1]][6]
