@@ -55,11 +55,15 @@ The IsolationForest ‘isolates’ observations by randomly selecting a feature 
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/IF.png?raw=true)
 
-### Visualize the anomalies
+#### Visualize the anomalies
 
 The results of all these algorithms will be printed on a map, to offer a good view to the user.
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/mapA.png?raw=true)
+
+### Installation Guide
+
+Coming soon..
 
 ## Social media
 ### [![twitter][1.1]][1] [![github][6.1]][6]
