@@ -16,7 +16,7 @@ The first step is to import all the data to start playing.
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('/home/alexfrancow/Desktop/netflow.json')
+df = pd.read_csv('/home/alexfrancow/netflow.json')
 ```
 
 #### Data group
