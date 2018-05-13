@@ -23,6 +23,7 @@ df = pd.read_csv('/home/alexfrancow/netflow.json')
 
 At this point we basically tell the application to count the packets that have the same IP and the same protocol in a time period of 5 seconds.
 
+*If we have the next table:*
 ```markdown
 ipdst           proto   time                   count
 10.3.20.102     HTTP    2017-03-20 17:08:56     1
@@ -32,10 +33,7 @@ ipdst           proto   time                   count
 10.3.20.102     TCP     2017-03-20 17:08:59     3
 ```
 
-```markdown
-df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index()
-```
-
+*With the data group, the output will be as follows:*
 ```markdown
   ipdst       proto  time                 count     
     -           -    2017-03-20 17:08:50    0
