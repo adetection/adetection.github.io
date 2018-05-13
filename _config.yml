@@ -1,6 +1,9 @@
+# https://github.com/pages-themes/minimal
+
 theme: jekyll-theme-minimal
 
 title: A-Detection
 description: An anomaly-based intrusion detection system. 
 logo: https://pages-themes.github.io/minimal/assets/img/logo.png
 show_downloads: true
+google_analytics: 
