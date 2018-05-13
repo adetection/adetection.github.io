@@ -10,6 +10,8 @@ A-Detection imports network traffic, and based on a series of algorithms like; V
 
 #### Data import
 
+The first step is to import all the data to start playing.
+
 ```markdown
 import pandas as pd
 import numpy as np
@@ -17,8 +19,9 @@ import numpy as np
 df = pd.read_csv('/home/alexfrancow/Desktop/netflow.json')
 ```
 
-
 #### Data group
+
+At this point we basically tell the application to count the packets that have the same IP and the same protocol in a time period of 5 seconds.
 
 ```markdown
 ipdst           proto   time                   count
