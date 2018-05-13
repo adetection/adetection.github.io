@@ -10,7 +10,7 @@ A-Detection imports network traffic, and based on a series of algorithms like; V
 
 #### Data import
 
-The first step is to import all the data to start playing.
+This is the first step to start playing.
 
 ```markdown
 import pandas as pd
