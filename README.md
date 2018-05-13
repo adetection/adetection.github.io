@@ -51,14 +51,14 @@ In this approach, the data is scaled to a fixed range - usually 0 to 1.
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png?raw=true)
 
-#### Isolation Forest
+#### Aply the Isolation Forest algorithm
 
 The IsolationForest ‘isolates’ observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of the selected feature.
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/IF.png?raw=true)
 
 ## Social media
-#### [![twitter][1.1]][1] [![github][6.1]][6]
+### [![twitter][1.1]][1] [![github][6.1]][6]
 [1]: http://www.twitter.com/alexfrancow
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
