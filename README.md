@@ -34,7 +34,7 @@ df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index
 ```
 
 ```markdown
- ipdst       proto  time                 count     
+  ipdst       proto  time                 count     
     -           -    2017-03-20 17:08:50    0
 10.3.20.102    HTTP  2017-03-20 17:08:55    4
 10.3.20.102    TCP   2017-03-20 17:08:55    4
