@@ -40,3 +40,7 @@ df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index
 10.3.20.102    TCP   2017-03-20 17:08:55    4
     -           -    2017-03-20 17:09:00    0
 ```
+
+#### Data normalization
+
+![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png)
