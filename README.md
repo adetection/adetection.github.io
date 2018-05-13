@@ -12,7 +12,7 @@ A-Detection is a software developed to automate the analysis of network anomalie
     + [Data group](#sub-sub-heading-2)
     + [Data normalization](#sub-sub-heading-3)
     + [Apply the Isolation Forest algorithm](#sub-sub-heading-4)
-    + [Visualize the anomalies](#Visualize the anomalies)
+    + [Visualize the anomalies](Visualize the anomalies)
 * [Installation Guide](#sub-heading-2)
 
 
