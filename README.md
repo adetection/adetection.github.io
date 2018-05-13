@@ -14,7 +14,7 @@ A-Detection imports network traffic, and based on a series of algorithms like; V
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('/home/snort/Desktop/netflow.json')
+df = pd.read_csv('/home/alexfrancow/Desktop/netflow.json')
 ```
 
 
