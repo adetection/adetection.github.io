@@ -43,9 +43,8 @@ df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index
 
 #### Data normalization
 
-An approach to Z-score normalization (or standardization) is the so-called Min-Max scaling (often also simply called “normalization” - a common cause for ambiguities).
+An approach to Z-score normalization (or standardization) is the so-called **Min-Max scaling**.
 In this approach, the data is scaled to a fixed range - usually 0 to 1.
-The cost of having this bounded range - in contrast to standardization - is that we will end up with smaller standard deviations, which can suppress the effect of outliers.
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png?raw=true)
 
