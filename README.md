@@ -16,6 +16,8 @@ A-Detection is a software developed to automate the analysis of network anomalie
 * [Installation Guide](#sub-heading-2)
 
 
+<!-- toc -->
+
 ### How it works
 
 A-Detection imports network traffic, and based on a series of algorithms like; Variable Scaling and Isolation Forest, is able to normalize data and detect anomalies in the dataframe.
