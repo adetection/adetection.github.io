@@ -47,5 +47,4 @@ df.set_index('time').groupby(['ipdst','proto']).resample('5S').sum().reset_index
 
 
 ## Social media
-Follow me on twitter [![alt text][1.2]][1]
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+Follow me on twitter [![alt text][http://i.imgur.com/wWzX9uB.png]][1]
