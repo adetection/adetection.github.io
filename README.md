@@ -1,12 +1,12 @@
 ## Welcome to A-Detection
 
-A-Detection is a software developed to automate the analysis of anomalies in large dataframes. Thanks to a series of algorithms A-Detection is able, on the basis of red traffic, to learn and detect anomalous traffic.
+A-Detection is a software developed to automate the analysis of network anomalies in large dataframes. Thanks to a series of algorithms, A-Detection can detect anomalous data and display it in dynamic graphics.
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/plot.png?raw=true)
 
 ### How it works
 
-Thanks to a Python library called Pandas, A-Detection imports network traffic, and based on a series of algorithms like; Variable Scaling and Isolation Forest, is able to Normalize and detect anomalies in the dataframe.
+A-Detection imports network traffic, and based on a series of algorithms like; Variable Scaling and Isolation Forest, is able to Normalize and detect anomalies in the dataframe.
 
 #### Data import
 
