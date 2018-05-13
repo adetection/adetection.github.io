@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title: A-Detection
+description: An anomaly-based intrusion detection system. 
+logo: https://static1.squarespace.com/static/5378d8b8e4b078c526a500ea/t/59fb7534e2c483961b0e1263/1509651770341/pandas-logo.png
+show_downloads: true
