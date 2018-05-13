@@ -1,6 +1,6 @@
-## Welcome to A-Detection
+## Welcome to A-Detector
 
-A-Detection is a software developed to automate the analysis of network anomalies in large dataframes. Thanks to a series of algorithms, A-Detection can detect anomalous data and display it in dynamic graphics.
+A-Detector is a software developed to automate the analysis of network anomalies in large dataframes. Thanks to a series of algorithms, A-Detector can detect anomalous data and display it in dynamic graphics.
 
 ![logo](https://github.com/adetection/adetection.github.io/blob/master/plot.png?raw=true)
 
@@ -20,7 +20,7 @@ A-Detection is a software developed to automate the analysis of network anomalie
 
 ### How it works
 
-A-Detection imports network traffic, and based on a series of algorithms like; Variable Scaling and Isolation Forest, is able to normalize data and detect anomalies in the dataframe.
+A-Detector imports network traffic, and based on a series of algorithms like; Variable Scaling and Isolation Forest, is able to normalize data and detect anomalies in the dataframe.
 
 #### Data import
 
