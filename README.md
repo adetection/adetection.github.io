@@ -2,7 +2,7 @@
 
 A-Detector is a software developed to automate the analysis of network anomalies in large dataframes. Thanks to a series of algorithms, A-Detector can detect anomalous data and display it in dynamic graphics.
 
-![logo](https://github.com/adetector/adetector.github.io/blob/master/assets/images/AnomaliesPlot.png?raw=true)
+![logo](https://github.com/adetector/adetector.github.io/blob/master/assets/images/AnomaliesPlot2.png?raw=true)
 
 
 ## Table of contents
