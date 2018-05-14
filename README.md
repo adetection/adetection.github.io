@@ -2,7 +2,7 @@
 
 A-Detector is a software developed to automate the analysis of network anomalies in large dataframes. Thanks to a series of algorithms, A-Detector can detect anomalous data and display it in dynamic graphics.
 
-![logo](https://github.com/adetection/adetection.github.io/blob/master/plot.png?raw=true)
+![logo](https://github.com/adetector/adetector.github.io/blob/master/assets/images/AnomaliesPlot.png?raw=true)
 
 
 ## Table of contents
@@ -61,19 +61,19 @@ ipdst           proto   time                   count
 An approach to Z-score normalization (or standardization) is the so-called **Min-Max scaling**.
 In this approach, the data is scaled to a fixed range - usually 0 to 1.
 
-![logo](https://github.com/adetection/adetection.github.io/blob/master/dataNorm.png?raw=true)
+![logo](https://github.com/adetector/adetector.github.io/blob/master/assets/images/DataNormalization.png?raw=true)
 
 #### Apply the Isolation Forest algorithm
 
 The IsolationForest ‘isolates’ observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of the selected feature.
 
-![logo](https://github.com/adetection/adetection.github.io/blob/master/IF.png?raw=true)
+![logo](https://github.com/adetector/adetector.github.io/blob/master/assets/images/IsolationForest.png?raw=true)
 
 #### Visualize the anomalies
 
 The results of all these algorithms will be printed on a map, to offer a good view to the user.
 
-![logo](https://github.com/adetection/adetection.github.io/blob/master/mapA.png?raw=true)
+![logo](https://github.com/adetector/adetector.github.io/blob/master/assets/images/AnomaliesMap.png?raw=true)
 
 ### Installation Guide
 
