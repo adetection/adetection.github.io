@@ -30,7 +30,7 @@ This is the first step to start playing.
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('/home/alexfrancow/netflow.json')
+df = pd.read_json('/home/alexfrancow/netflow.json')
 ```
 
 #### Data group
