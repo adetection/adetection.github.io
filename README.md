@@ -80,7 +80,7 @@ Coming soon..
 
 ### Social media
 <p align="center">
-  #### [![twitter][1.1]][1] [![github][6.1]][6]{.center}
+  [![twitter][1.1]][1] [![github][6.1]][6]
 </p>
 
 [1]: http://www.twitter.com/alexfrancow
