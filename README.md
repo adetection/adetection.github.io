@@ -79,7 +79,9 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 Coming soon..
 
 ### Social media
+<p align="center">
   #### [![twitter][1.1]][1] [![github][6.1]][6]{.center}
+</p>
 
 [1]: http://www.twitter.com/alexfrancow
 [1.1]: /assets/images/icons/twitter.png
