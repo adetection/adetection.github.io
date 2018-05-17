@@ -81,8 +81,10 @@ Coming soon..
 ### Social media
 <p align="center">
    #### [![twitter][1.1]][1] [![github][6.1]][6]
-   [1]: http://www.twitter.com/alexfrancow
-   [1.1]: /assets/images/icons/twitter.png
-   [6.1]: /assets/images/icons/github.png
-   [6]: http://www.github.com/alexfrancow
 </p>
+
+[1]: http://www.twitter.com/alexfrancow
+[1.1]: /assets/images/icons/twitter.png
+[6.1]: /assets/images/icons/github.png
+[6]: http://www.github.com/alexfrancow
+
