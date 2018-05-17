@@ -37,22 +37,17 @@ At this point we basically tell the application to count the packets that have t
 
 *If we have the next table:*
 ```markdown
-ipdst           proto   time                    count
+  ipdst        proto           time           count
 10.3.20.102     HTTP    2017-03-20 17:08:56     1
 10.3.20.102     HTTP    2017-03-20 17:08:57     1
 10.3.20.102     HTTP    2017-03-20 17:08:58     1
 10.3.20.102     HTTP    2017-03-20 17:08:58     1
 10.3.20.102     TCP     2017-03-20 17:08:59     3
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 ```
 
 *With the data group, the output will be as follows:*
 ```markdown
-ipdst          proto time                   count     
+  ipdst       proto         time          count     
     -           -    2017-03-20 17:08:50    0
 10.3.20.102    HTTP  2017-03-20 17:08:55    4
 10.3.20.102    TCP   2017-03-20 17:08:55    4
