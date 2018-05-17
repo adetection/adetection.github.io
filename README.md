@@ -7,14 +7,14 @@ A-Detector is a software developed to automate the analysis of network anomalies
 
 ## Table of contents
 
-* [How it works](#how-it-works)
-    + [Data import](#data-import)
-    + [Data group](#data-group)
-    + [Data normalization](#data-normalization)
-    + [Apply the Isolation Forest algorithm](#apply-the-isolation-forest-algorithm)
-    + [Visualize the anomalies](#visualize-the-anomalies)
-* [Installation Guide](#installation-guide)
-* [Social Media](#social-media)
+- [How it works](#how-it-works)
+    * [Data import](#data-import)
+    * [Data group](#data-group)
+    * [Data normalization](#data-normalization)
+    * [Apply the Isolation Forest algorithm](#apply-the-isolation-forest-algorithm)
+    * [Visualize the anomalies](#visualize-the-anomalies)
+- [Installation Guide](#installation-guide)
+- [Social Media](#social-media)
 
 <!-- toc -->
 
