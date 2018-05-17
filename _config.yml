@@ -1,5 +1,4 @@
 # https://github.com/pages-themes/minimal
-active_modules: [pygments, tags, blog, latex]
 
 theme: jekyll-theme-minimal
 
@@ -8,7 +7,3 @@ description: An anomaly-based intrusion detection system.
 logo: /assets/images/logo.png?raw=true
 show_downloads: true
 google_analytics: UA-102345837-2
-
-modules:
-  pygments:
-    style: tango
