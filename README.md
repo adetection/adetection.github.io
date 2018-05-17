@@ -87,9 +87,3 @@ Coming soon..
        <img src="/assets/images/icons/github.png">
    </a> 
 </p>
-
-[1]: http://www.twitter.com/alexfrancow
-[1.1]: /assets/images/icons/twitter.png
-[6.1]: /assets/images/icons/github.png
-[6]: http://www.github.com/alexfrancow
-
