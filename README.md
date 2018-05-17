@@ -25,7 +25,7 @@ A-Detector imports network traffic, and based on a series of algorithms like; Va
 #### Data import
 
 This is the first step to start playing.
-```markdown
+```python
 import pandas as pd
 import numpy as np
 
