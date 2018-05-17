@@ -78,7 +78,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 Coming soon..
 
-### Social media
+<!-- Social Media -->
 <p align="center">
    <a href="http://www.twitter.com/alexfrancow" target="_blank">
        <img src="/assets/images/icons/twitter.png">
