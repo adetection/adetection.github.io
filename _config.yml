@@ -7,3 +7,6 @@ description: An anomaly-based intrusion detection system.
 logo: /assets/images/logo.png?raw=true
 show_downloads: true
 google_analytics: UA-102345837-2
+
+markdown: kramdown
+highlighter: pygments
