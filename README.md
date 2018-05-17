@@ -76,7 +76,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 ### Installation Guide
 
-```console
+```shell
 $ git clone ...
 ```
 Coming soon..
