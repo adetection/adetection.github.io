@@ -80,10 +80,10 @@ Coming soon..
 
 ### Social media
 <p align="center">
-   <a href="http://www.twitter.com/alexfrancow">
+   <a href="http://www.twitter.com/alexfrancow" target="_blank">
        <img src="/assets/images/icons/twitter.png">
    </a> 
-   <a href="http://www.github.com/alexfrancow">
+   <a href="http://www.github.com/alexfrancow" target="_blank">
        <img src="/assets/images/icons/github.png">
    </a> 
 </p>
