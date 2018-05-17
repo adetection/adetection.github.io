@@ -79,7 +79,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 Coming soon..
 
 ### Social media
-<div text-align:"center">
+<div style="text-align:center">
    #### [![twitter][1.1]][1] [![github][6.1]][6]
 </div>
 
