@@ -8,4 +8,6 @@ logo: /assets/images/logo.png?raw=true
 show_downloads: true
 google_analytics: UA-102345837-2
 
-highlighter: pygments
+modules:
+  pygments:
+    style: tango
