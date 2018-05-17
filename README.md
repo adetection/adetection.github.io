@@ -25,14 +25,12 @@ A-Detector imports network traffic, and based on a series of algorithms like; Va
 #### Data import
 
 This is the first step to start playing.
-{% highlight python %}
 ```markdown
 import pandas as pd
 import numpy as np
 
 df = pd.read_json('/home/alexfrancow/netflow.json')
 ```
-{% endhighlight  %}
 
 #### Data group
 
