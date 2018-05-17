@@ -47,11 +47,11 @@ At this point we basically tell the application to count the packets that have t
 
 *With the data group, the output will be as follows:*
 ```markdown
-  ipdst       proto            time          count     
-    -           -       2017-03-20 17:08:50    0
-10.3.20.102    HTTP     2017-03-20 17:08:55    4
-10.3.20.102    TCP      2017-03-20 17:08:55    4
-    -           -       2017-03-20 17:09:00    0
+  ipdst       proto            time           count     
+    -           -       2017-03-20 17:08:50     0
+10.3.20.102    HTTP     2017-03-20 17:08:55     4
+10.3.20.102    TCP      2017-03-20 17:08:55     4
+    -           -       2017-03-20 17:09:00     0
 ```
 
 #### Data normalization
