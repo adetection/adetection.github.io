@@ -76,10 +76,17 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 ### Installation Guide
 
 Coming soon..
-#### Using a virtual environment
+#### Virtual environment
 ```shell
 $ git clone <URL>
 $ . venv/bin/activate
+$ python3 run.py
+```
+
+#### On the main OS
+```shell
+$ git clone <URL>
+$ pip install -r requirements.txt
 $ python3 run.py
 ```
 
