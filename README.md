@@ -76,6 +76,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 ### Installation Guide
 
 Coming soon..
+#### Using a virtual environment
 ```shell
 $ git clone <URL>
 $ . venv/bin/activate
