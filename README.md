@@ -77,13 +77,19 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 Coming soon..
 #### Virtual environment
+##### Dependencies
+
+```shell
+# apt-get install python3-venv
+```
+##### Run VENV
 ```shell
 $ git clone <URL>
 $ . venv/bin/activate
 $ python3 run.py
 ```
 
-#### On the main OS
+#### Main OS
 ```shell
 $ git clone <URL>
 $ pip install -r requirements.txt
