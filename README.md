@@ -85,6 +85,7 @@ $ sudo apt install python3-venv
 ##### Run venv
 ```shell
 $ git clone <URL>
+$ cd adetector
 $ . venv/bin/activate
 $ python3 run.py
 ```
@@ -92,6 +93,7 @@ $ python3 run.py
 #### Main OS
 ```shell
 $ git clone <URL>
+$ cd adetector
 $ pip install -r requirements.txt
 $ python3 run.py
 ```
