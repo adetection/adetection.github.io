@@ -75,7 +75,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 ### Installation Guide
 
-Working on it..  :wrench::hammer:
+Working on it..  :wrench: :hammer:
 #### Virtual environment [recommended]
 ##### Dependencies
 
