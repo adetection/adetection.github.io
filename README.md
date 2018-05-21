@@ -80,7 +80,7 @@ Coming soon..
 ##### Dependencies
 
 ```shell
-# apt-get install python3-venv
+$ sudo apt-get install python3-venv
 ```
 ##### Run venv
 ```shell
