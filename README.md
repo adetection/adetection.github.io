@@ -65,7 +65,7 @@ In this approach, the data is scaled to a fixed range - usually 0 to 1.
 
 The IsolationForest ‘isolates’ observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of the selected feature.
 
-![logo](/assets/images/IsolationForest.png?raw=true)
+![logo](/assets/images/IsolationForest2.png?raw=true)
 
 #### Visualize the anomalies
 
