@@ -76,7 +76,11 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 ### Installation Guide
 
 Coming soon..
-
+```shell
+$ git clone <URL>
+$ . venv/bin/activate
+$ python3 run.py
+```
 
 <!-- Social Media -->
 <p align="center">
