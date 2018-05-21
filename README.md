@@ -82,7 +82,7 @@ Coming soon..
 ```shell
 # apt-get install python3-venv
 ```
-##### Run VENV
+##### Run venv
 ```shell
 $ git clone <URL>
 $ . venv/bin/activate
