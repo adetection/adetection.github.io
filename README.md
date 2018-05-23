@@ -105,10 +105,7 @@ $ python3 run.py
 <p align="center">
    <a href="http://www.twitter.com/alexfrancow" target="_blank">
        <img src="/assets/images/icons/twitter.png">
-   </a> 
-   
-   <i class="fab fa-github-alt"></i>
-   
+   </a>    
    <a href="http://www.github.com/alexfrancow" target="_blank">
        <img src="/assets/images/icons/github.png">
    </a> 
