@@ -90,7 +90,7 @@ $ sudo apt install python3-venv
 $ git clone <URL>
 $ cd adetector
 $ . venv/bin/activate
-$ python3 run.py
+$ python run.py
 ```
 
 #### Main OS
