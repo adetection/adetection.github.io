@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 
 title: A-Detector
 description: An anomaly-based intrusion detection system. 
-logo: /assets/images/logo2.png?raw=true
+logo: /assets/images/logo4.png?raw=true
 show_downloads: true
 google_analytics: UA-102345837-2
 
