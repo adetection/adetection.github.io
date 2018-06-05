@@ -83,6 +83,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 ```shell
 $ sudo apt install python3-venv
+$ sudo apt install tshark
 ```
 ##### Run venv
 ```shell
