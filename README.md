@@ -74,9 +74,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 ### Installation Guide
 
-> Working on it..
-
-> [!] Tested on Ubuntu 16.04.3 - 18.04
+> Tested on Ubuntu 16.04.3 - 18.04
 
 #### Virtual environment [recommended]
 ##### Dependencies
