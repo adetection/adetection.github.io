@@ -76,7 +76,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 > Working on it..
 
-> [!] Only tested on Ubuntu 16.04.3 LTS
+> [!] Tested on Ubuntu 16.04.3 - 18.04
 
 #### Virtual environment [recommended]
 ##### Dependencies
