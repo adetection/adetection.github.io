@@ -76,14 +76,14 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 
 > Tested on Ubuntu 16.04.3 - 18.04
 
-#### Virtual environment [recommended]
 ##### Dependencies
 
 ```shell
 $ sudo apt install python3-venv
 $ sudo apt install tshark
 ```
-##### Run venv
+
+#### Virtual environment [recommended]
 ```shell
 $ git clone https://github.com/alexfrancow/A-Detector.git
 $ cd adetector
