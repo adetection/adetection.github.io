@@ -85,7 +85,7 @@ $ sudo apt install tshark
 ```
 ##### Run venv
 ```shell
-$ git clone <URL>
+$ git clone https://github.com/alexfrancow/A-Detector.git
 $ cd adetector
 $ . venv/bin/activate
 $ python run.py
@@ -93,7 +93,7 @@ $ python run.py
 
 #### Main OS
 ```shell
-$ git clone <URL>
+$ git clone https://github.com/alexfrancow/A-Detector.git
 $ cd adetector
 $ pip install -r requirements.txt
 $ python3 run.py
