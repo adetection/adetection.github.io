@@ -79,8 +79,7 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 ##### Dependencies
 
 ```shell
-$ sudo apt install python3-venv
-$ sudo apt install tshark
+$ sudo apt install python3-venv tshark
 ```
 
 #### Virtual environment [recommended]
