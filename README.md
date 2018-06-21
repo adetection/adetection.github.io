@@ -81,8 +81,6 @@ The results of all these algorithms will be printed on a map, to offer a good vi
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/B3v3Otz9eVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ssyQ-WCnFgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Installation Guide
 
 > Tested on Ubuntu 16.04.3 - 18.04
